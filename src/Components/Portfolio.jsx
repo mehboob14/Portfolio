@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/wom.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Language Translator  🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Seamlessly translate text across 50 languages with this JavaScript-powered application. This experience enabled me to explore Node.js, Express.js, and EJS, while leveraging Axios for efficient API communication. ",
+    url: "https://github.com/mehboob14/Language-Translator",
   },
   {
-    title: "Web Development for Beginners",
+    title: "JSON-Weather App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "A simple and basic web application designed to fetch weather data based on user-specified locations.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Candy Crush",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Enjoy a simple and fun Candy Crush game built using JavaScript, with a touch of CSS and HTML. Match colorful candies to crush them and score points in this addictive game! ",
+    url: "https://github.com/microsoft/workshop-library/tree/main/full/d-resume-website",
   },
   {
     title: "GitHub Codespaces and github.dev",

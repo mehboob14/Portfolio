@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/deso.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Aspiring Full Stack Developer, currently pursuing Beachlor's Degree in Infromation Technology. My ambition encompasses forging great user experience with expertize in user centerd Design.";
 
 const About = () => {
   return (
