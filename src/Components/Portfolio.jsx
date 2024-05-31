@@ -46,13 +46,13 @@ const projectList = [
     title: "Candy Crush",
     description:
       "Enjoy a simple and fun Candy Crush game built using JavaScript, with a touch of CSS and HTML. Match colorful candies to crush them and score points in this addictive game! ",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/d-resume-website",
+    url: "https://github.com/mehboob14/Candy-Crush",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Chat App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A Fullstack Chat App built using Node.js, Express.js, Socket.io, and for fronted uses React. Users can join rooms, share files with real time communication",
+    url: "https://github.com/mehboob14/Chat-App",
   },
 ];
 
