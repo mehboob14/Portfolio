@@ -27,7 +27,7 @@ const skillsList = [
   "FullStack developer",
   "User experience",
   "Node.js Developer",
-  "Web Designer",
+  "Machine learning",
   "Mobile user interfaces",
   "User Interface",
 ];
