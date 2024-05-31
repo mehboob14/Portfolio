@@ -24,15 +24,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Mehboob Arshad",
-  title: "UserInterface Designer & Software Developer",
+  name: "Mehboob  Arshad",
+  title: "Developer & User Interface Designer",
   email: "mehboob14@proton.me",
   gitHub: "https://github.com/mehboob14",
   instagram: "https://instagram.com/mehboob-arshad",
   linkedIn: "https://linkdin.com/in/mehboob-arshad",
   medium: "",
   twitter: "BubbTech",
-  youTube: "BubbTech",
+  youTube: "https://www.youtube.com/channel/UCX1HuUtB5p1AtRvq8V5qb7g",
 };
 
 const primaryColor = "#3E567E";
