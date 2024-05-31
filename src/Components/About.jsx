@@ -25,7 +25,7 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web developer",
+  "FullStack developer",
   "User experience",
   "Node.js Developer",
   "Web Designer",
